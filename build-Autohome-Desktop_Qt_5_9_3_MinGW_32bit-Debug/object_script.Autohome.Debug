@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\regst.o
+./debug\userspace.o
+./debug\option.o
+./debug\qrc_res.o
+./debug\moc_widget.o
+./debug\moc_regst.o
+./debug\moc_userspace.o
+./debug\moc_option.o
+);

@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>manger.png</file>
+        <file>OFF.png</file>
+        <file>ON.png</file>
+        <file>opendoor_ico.png</file>
+        <file>openfan_ico.png</file>
+        <file>openled_ico.png</file>
+        <file>closedoor_ico.png</file>
+        <file>closefan_ico.png</file>
+        <file>closeled_ico.png</file>
+        <file>edittext_bj.png</file>
+        <file>fs_logo.png</file>
+        <file>lock_ico.png</file>
+        <file>login_bj.jpg</file>
+        <file>room.png</file>
+        <file>dev_button_ico.png</file>
+        <file>home_ico.png</file>
+        <file>humidity_button_ico.png</file>
+        <file>illumination_button_ico.png</file>
+        <file>meadioplayer_button_ico.png</file>
+        <file>pellet_ico.png</file>
+        <file>temperature_button_ico.png</file>
+        <file>video_button_ico.png</file>
+        <file>yule_button_ico.png</file>
+        <file>home_bh.png</file>
+        <file>email_yes_ico.png</file>
+        <file>email_no_ico.png</file>
+    </qresource>
+</RCC>
